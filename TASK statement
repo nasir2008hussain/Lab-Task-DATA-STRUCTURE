@@ -1,0 +1,44 @@
+Task 1:
+· You are required to write a program to create a CSV file to display the minimum 10 values of a variable for example “i” then multiply the variable by itself like “i*i” using loop. There must be two columns to display the values of the variable and its resultant.
+· Then append the created CSV file to display the values of “i”, “i*i”, and “i*i*i” in three columns using loop.
+
+Task 2:
+You are required to write an advanced calculator program that takes two inputs from user. There must be functions of addition(), subtraction(), multiplication(), division(), squareroot() and power() with suitable input arguments and return parameters.
+Further perform a complete debugging with following features mentioned below:
+• Breakpoints (add, delete, enable and disable)
+• Conditional breakpoints (Is True, and Has Changed)
+• Trace points (apply on a variable)
+• Conditional Trace point
+• Step Into
+• Step out
+• Step over
+• Watches (add, delete)
+• Labels (add, edit and search)
+• Hit Counter (apply “break when hit counter is equal to”)
+• Hit Condition (apply it on any function and print the messages along breakpoints)
+
+Task 3:
+Selection sort
+
+Task 4:
+Write a C++ program that takes rain records (date, and rainfall measurement) for 2 weeks. It should use Struct to maintain rainfall records and user-based rain inputs. Apply bubble sort algorithm on the measured rainfall to align it in descending order.
+
+Task 5:
+· You are required to write a Function Template such that it prints the results of quadratic equation. It should print messages if results are above 0, equals to 0 and below 0. It should accept both data types long and float.
+
+Task 6:
+Class template
+
+Task 7:
+You are required to write a function template and a specialized function template. The Function template should calculate the value of a function 𝑓(𝑥,𝑦)=𝑎∗𝑥+𝑏∗𝑦. The numbers a, b, x, y is of same but unknown data type. Test it with int, float, double datatypes.
+Whereas Specialize function template should be of multiplication function. The multiplication f(x,n), the function should return the string x concatenated n times, e.g., if x="ab" and n=3, f(x) should return ababab.
+
+Task 9:
+· Write a program which takes a sentence as an input and uses stack to check if the words in the sentence are balanced. User-based sentences.
+Hint:-
+Balanced words: hello computer
+Unbalanced words: I am computer
+
+Task 11
+Queue ADT palindrome
+
